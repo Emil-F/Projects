@@ -1,2 +1,2 @@
 # Projects
-Simple stuff
+Calculate birthyear based on age in current year.
